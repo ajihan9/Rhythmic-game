@@ -219,4 +219,4 @@ game_html = f"""
 </html>
 """
 
-components.html(game_html, height=460)components.html(game_html, height=460)
+components.html(game_html, height=460)

@@ -15,7 +15,7 @@ themes = {
     },
     "Hard": {
         "bg": "#050B14", "sidebar_bg": "#0A1424", "text": "#E3F2FD",
-        "speed": 0.13, "tolerance": 0.12 # 굉장히 빠르고 판정이 빡빡함
+        "speed": 0.13, "tolerance": 0.18 # 굉장히 빠르고 판정이 빡빡함
     }
 }
 
